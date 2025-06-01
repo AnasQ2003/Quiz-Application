@@ -1,26 +1,29 @@
 # Quiz-Application
 To enhance the reliability and user-friendliness of API-integrated programs by incorporating robust error handling and UI feedback mechanisms
+
 ✅ Objective:
-To enhance the reliability and user-friendliness of API-integrated programs by incorporating robust error handling and UI feedback mechanisms.
+To implement a fully functional quiz application using Python GUI with data structures like lists and dictionaries.
 
 🔍 Activities Performed:
-Implemented try-except blocks to catch exceptions such as failed requests or incorrect user input.
+Designed a multi-question quiz where each question had multiple options and a correct answer.
 
-Provided meaningful messages in the UI when errors occurred (e.g., no internet, city not found).
+Used lists to store quiz questions and user responses.
 
-Ensured the program remains functional even when some components fail.
+Employed dictionaries to manage each question’s structure (question text, options, answer).
+
+Managed timers, navigation (next question), and final result display.
 
 💡 Key Concepts Learned:
-Defensive programming using exception handling.
+Logical organization of quiz data using structured data types.
 
-Realizing the importance of validating user inputs and network responses.
+GUI event handling and state management (e.g., timers, user actions).
 
-Separation of core logic and user interaction for better design.
+Tracking performance metrics like time per question and score.
 
 ⚠️ Challenges:
-Determining where and when to catch exceptions without hiding bugs.
+Coordinating between UI events and backend logic.
 
-Providing relevant and user-friendly messages for different failure types.
+Tracking user answers accurately and handling skipped questions.
 
 🧠 Reflections:
-This week deepened the understanding of writing stable software. Error handling brought a professional touch and made the applications more user-centric.
+This week was the most creative and complex, showcasing how all earlier learnings could be integrated into a real-world, interactive software project. It emphasized the importance of planning and modular design.
