@@ -46,7 +46,6 @@ This project reinforces critical software engineering principles including:
 
 ### 4. Step-by-Step Question Progression Examples
 <p align="center">
-  <img src="screenshots/screenshot_5.png" width="280" alt="Question 2 of 10" /> &nbsp;
   <img src="screenshots/screenshot_6.png" width="280" alt="Question 3 of 10" /> &nbsp;
   <img src="screenshots/screenshot_7.png" width="280" alt="Question 4 of 10" />
 </p>
@@ -200,19 +199,43 @@ The application will start, generate the `questions.json` file automatically, an
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+```
+MIT License
+
+Copyright (c) Quiz Application---2026 AnasQ2003
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+```
 
 ---
 
 ## 👨‍💻 Author
 
-**Anas Ahmed Qureshi** — [@AnasQ2003](https://github.com/AnasQ2003)
-*BiStartX Python Internship — Month 02, Week 01*
+**Anas Ahmed Qureshi.** — [@AnasQ2003](https://github.com/AnasQ2003)
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ using <strong>Python, Tkinter & JSON</strong></p>
+  <p>Built with ❤️ by <strong>Anas</strong></p>
+  
+ <div align="center">
 
-  **⭐ If you found this project helpful, please star the repository!**
+Made with 💧 and a lot of ☕
+
+**⭐ If you found this useful, please star the repository!**
+
+*Stay hydrated. Stay healthy.*
+
 </div>
