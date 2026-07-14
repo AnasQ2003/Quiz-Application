@@ -13,7 +13,7 @@
 
 ## 🌟 Overview
 
-The **Ultimate Quiz Challenge** is a sophisticated, interactive desktop quiz application developed as part of the **BiStartX** Python learning curriculum. It loads questions from an external `questions.json` database, administers a 10-question multiple-choice challenge with a **30-second time limit per question**, and tracks elapsed time for each answer. 
+The **Ultimate Quiz Challenge** is a sophisticated, interactive desktop quiz application developed as part of Python learning curriculum. It loads questions from an external `questions.json` database, administers a 10-question multiple-choice challenge with a **30-second time limit per question**, and tracks elapsed time for each answer. 
 
 At the end of the challenge, it replaces the active question layout with a professional **Results Board** built using a Tkinter `Treeview` widget. The board displays a row-by-row breakdown of the user's answers against the correct answers, along with response times and encouragement comments.
 
@@ -177,7 +177,7 @@ The application will start, generate the `questions.json` file automatically, an
 
 ---
 
-## 🧠 Learning Objectives (BiStartX Month 2)
+## 🧠 Learning Objectives
 
 > ✅ **Objective**: Enhance the reliability, state complexity, and user-friendliness of GUI programs by incorporating robust timers, file database integrations, and dynamic grid layouts.
 
