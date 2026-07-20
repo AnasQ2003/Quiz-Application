@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🏆 Ultimate Quiz Challenge — Python Desktop Quiz App
 
 > A feature-rich, dark-themed desktop quiz application built with Python and Tkinter, featuring a dynamic progress bar timer, external JSON-based question configuration, and a detailed performance analytics review board.
@@ -8,6 +10,8 @@
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6F00.svg?style=flat-square)](https://docs.python.org/3/library/tkinter.html)
 [![JSON](https://img.shields.io/badge/Data-JSON-000000.svg?style=flat-square&logo=json)](https://www.json.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
+</div>
 
 ---
 
@@ -202,7 +206,7 @@ The application will start, generate the `questions.json` file automatically, an
 ```
 MIT License
 
-Copyright (c) Quiz Application---2026 AnasQ2003
+Copyright (c) Quiz Application --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -232,10 +236,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
   
  <div align="center">
 
-Made with 💧 and a lot of ☕
+Made with a lot of ☕
 
 **⭐ If you found this useful, please star the repository!**
-
-*Stay hydrated. Stay healthy.*
 
 </div>
